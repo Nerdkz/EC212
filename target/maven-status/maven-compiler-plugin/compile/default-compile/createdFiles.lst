@@ -1,1 +1,12 @@
-com/mycompany/ec212/main.class
+com\mycompany\ec212\model\JBSDF.class
+com\mycompany\ec212\model\JBSDF_Type.class
+com\mycompany\ec212\model\JRay.class
+com\mycompany\ec212\model\JShape.class
+com\mycompany\ec212\model\JFilm.class
+com\mycompany\ec212\model\JIntersection.class
+com\mycompany\ec212\model\JScene.class
+com\mycompany\ec212\model\JShaderGlobal.class
+com\mycompany\ec212\JMain.class
+com\mycompany\ec212\model\JCamera.class
+com\mycompany\ec212\model\JSphere.class
+com\mycompany\ec212\model\JColor_3.class
