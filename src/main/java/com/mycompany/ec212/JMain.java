@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 package com.mycompany.ec212;
-
-import com.badlogic.gdx.Application;
-import com.badlogic.gdx.math.Vector;
-
 /**
  *
  * @author vinicius

@@ -2,16 +2,15 @@ package com.mycompany.ec212.model;
 
 public class JIntersection {
 
-    private boolean hit;
-    private float distance;
-    private int index;
+    public boolean hit;
+    public float distance;
+    public int index;
 
     public JIntersection() {
 
     }
 
     public JIntersection(boolean hit, float distance, int index) {
-        super();
         this.hit = hit;
         this.distance = distance;
         this.index = index;
