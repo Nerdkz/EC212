@@ -40,7 +40,7 @@ public class ViewPort extends javax.swing.JFrame {
         
         JBSDF whiteMaterial = new JBSDF(JBSDF.JBSDF_Type.Diffuse, new Vector3(1, 1, 1));
         
-        JSphere sphere = new JSphere(Vector3.Zero, (float) 2, whiteMaterial);
+        JSphere sphere = new JSphere(Vector3.Zero, (float) 0.1, whiteMaterial);
         
         ArrayList<JShape> shapes = new ArrayList();
         shapes.add(sphere);
